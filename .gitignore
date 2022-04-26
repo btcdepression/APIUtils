@@ -1,6 +1,6 @@
 */target/
 /bin/
-test-output
+mainClass-output
 .DS_Store
 .idea
 .gradle
@@ -31,7 +31,7 @@ out/
 /nbproject/
 /pom.xml.versionsBackup
 /.editorconfig
-/test.out
+/mainClass.out
 nb-configuration.xml
 */report/
 */reports/
